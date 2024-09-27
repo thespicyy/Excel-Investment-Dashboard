@@ -9,5 +9,5 @@ An excel dashboard to monitor your investments and your bank account
 
 (Numbers are generated randomly)
 
-Thank you,\\ 
+Thank you,\n
 Rémy
